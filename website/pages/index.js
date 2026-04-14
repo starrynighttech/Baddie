@@ -1,5 +1,4 @@
-import Hero from "../components/Hero"
-
+import HeroSmoke from "../components/HeroSmoke"
 export default function Home() {
-  return <Hero />
+  return <HeroSmoke />
 }
